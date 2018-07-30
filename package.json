@@ -1,0 +1,27 @@
+{
+  "name": "react-native-cdn-image",
+  "version": "1.0.0",
+  "description": "图片远程存储方案",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuo9958/react-native-cdn-image.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuo9958/react-native-cdn-image/issues"
+  },
+  "homepage": "https://github.com/cuo9958/react-native-cdn-image#readme",
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rev": "^8.1.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
